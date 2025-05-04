@@ -60,6 +60,6 @@ A: Watch the tutorial here: [📺 YouTube Video](https://youtu.be/NJlbRrtmOfU)
 </details>
 
 <details>
-<summary><strong>Q: I am experiencing difficulties with Pizza!</strong></summary>
-A: Please create a ticket in **#unknown** (support channel).
+<summary><strong>Q:How to download Pizza client?</strong></summary>
+A: Please go to [Releases](https://github.com/ModProviderQOL/Pizza-Client/releases) and download it.
 </details>
